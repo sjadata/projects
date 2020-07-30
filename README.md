@@ -1,4 +1,4 @@
-#### This page contains links to projects on this site.
+This page contains links to projects on this site.
 
 1. [World COVID Visualisation](https://sjadata.github.io/world-covid/)
 
