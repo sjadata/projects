@@ -1,4 +1,4 @@
-__List of projects:__
+#### This page contains links to projects on this site.
 
 1. [World COVID data](https://sjadata.github.io/world-covid/)
 
